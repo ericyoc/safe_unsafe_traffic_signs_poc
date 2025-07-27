@@ -13,6 +13,18 @@ This project provides a comprehensive framework for generating and analyzing syn
   * By synthesizing signs under various conditions (e.g., different lighting, degradation levels, and material properties that affect reflectivity and contrast), we can train AI systems to accurately detect and classify traffic signs even when they are partially obscured, faded, or otherwise compromised.
   * This directly contributes to safer autonomous driving systems and improved traffic infrastructure monitoring.
 
+---
+
+### Reference Traffic Signs
+
+Here are the reference images for the traffic sign types used in this project:
+
+| Yield Sign | Upward Arrow Sign | Stop Sign |
+| :----------------------: | :-----------------------: | :---------------------: |
+| ![Yield Sign Reference](yield_sign_ref_image.jpg) | ![Upward Arrow Reference](upward_arrow_ref_image.jpg) | ![Stop Sign Reference](stop_sign_ref_image.jpg) |
+
+---
+
 ### Installation
 
 To set up the environment in Google Colab, execute the following command to install the necessary Python packages:
