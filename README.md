@@ -7,7 +7,7 @@ This project provides a comprehensive framework for generating and analyzing syn
   * Subsequently, a separate **Convolutional Neural Network (CNN)** is trained on this generated dataset to determine if a traffic sign is safe or unsafe by analyzing its image.
   * The project also incorporates robust **directory services** to manage the generated image files and other project assets within the Colab environment.
 
-*** Motivating Research
+### Motivating Research
 Deep Learning-Based Computer Vision Framework for Predicting Retroreflectivity of Road Signs
 https://rosap.ntl.bts.gov/view/dot/83805
 
